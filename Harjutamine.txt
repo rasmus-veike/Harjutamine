@@ -1,0 +1,3 @@
+GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks. See võimaldab teil ja teistel kõikjal projektidega koos töötada. See õpetus õpetab teile GitHubi põhiteadmisi, nagu hoidlad, harud, sissekanded ja tõmbepäringud.
+Githubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted üle maailma, et luua miljoneid avatud lähtekoodiga projekte ja võimaldada organiseeritud koostööd ühel platvormil. See on koostööpõhine veebipõhine platvorm koos versioonihaldussüsteemidega, mis pakub tõhusamat viisi suurepärase tarkvara loomiseks.
+Github on hea koodi pilve salvestamiseks kasutada ja seal selle väljastamiseks ära kasutada.
