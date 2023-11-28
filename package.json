@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "drizzle-orm": "^0.29.0",
+    "mysql2": "^3.6.5"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.20.6"
+  }
+}
